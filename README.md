@@ -31,31 +31,16 @@ Most Recently as the past three years I have been working as an Android Develope
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=M-Elnemr&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=amrheshmat&show_icons=true&theme=radical&line_height=27">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=M-Elnemr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amrheshmat&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
-<img  src="https://github-profile-trophy.vercel.app/?username=M-Elnemr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
+<img  src="https://github-profile-trophy.vercel.app/?username=amrheshmat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
 </p> 
 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
-
-<!--
-**M-Elnemr/M-Elnemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
