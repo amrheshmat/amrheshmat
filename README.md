@@ -1,6 +1,6 @@
-![android](https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=28&background=7353FF00&center=true&vCenter=true&width=1000&lines=hi%2C+i'm+amr+heshmat.)](https://git.io/typing-svg)
+
+![android](https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg)
 
 <p align="center">
 Most Recently as the past three years I have been working as an Android Developer, with diffrent experiences over the past years I found my self becoming a team player and getting obsessed with achiveing the best practice and writing organized clean code within clean architecture. 
